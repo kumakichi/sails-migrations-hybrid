@@ -65,7 +65,7 @@
     "interpret": "0.3.7",
     "knex": "0.7.4",
     "liftoff": "1.0.4",
-    "lodash": "2.4",
+    "lodash": ">=4.17.11",
     "optimist": "0.6.1",
     "tildify": "1.0.0",
     "pg": "4.1.1",
